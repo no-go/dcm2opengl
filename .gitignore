@@ -1,0 +1,4 @@
+images/*.dcm
+*.o
+dcm2opengl
+a.out
